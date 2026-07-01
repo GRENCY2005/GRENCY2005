@@ -74,11 +74,17 @@ const grency = {
 ## 🌟 Quick Highlights
 
 ✨ AI & Machine Learning Enthusiast
+
 ✨ Full Stack Developer
+
 ✨ Data Science Intern @ Oasis Infobyte
-✨ CGPA **8.11 / 10**
+
+✨ CGPA 8.11 / 10
+
 ✨ Passionate about solving real-world problems
+
 ✨ Always learning new technologies
+
 ---
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -163,10 +169,15 @@ const grency = {
 # 💼 Professional Experience
 ## 💻 Data Science Intern — Oasis Infobyte
 📅 **May 2025 – June 2025**
+
 ✔ Developed Machine Learning models using Python & Scikit-Learn
+
 ✔ Performed Data Cleaning & Feature Engineering
+
 ✔ Conducted Exploratory Data Analysis (EDA)
+
 ✔ Evaluated ML Models using real-world datasets
+
 ✔ Worked on Classification & Prediction Projects
 
 ---
