@@ -1,19 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Grency%20Savaliya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20|%20Full%20Stack%20Developer%20|%20Software%20Engineer&descAlignY=60&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Grency%20Savaliya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20|%20Full%20Stack%20Developer%20|%20Software%20Engineer&descAlignY=60&descSize=20"/>
 
-<a href="https://github.com/GRENCY2005">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Grency+Savaliya;💻+AI/ML+Engineer+%26+Full+Stack+Developer;🚀+Building+Intelligent+Web+Applications;🤖+Machine+Learning+%7C+Data+Science;🌱+Always+Learning+New+Technologies"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&height=70&lines=Hi+%F0%9F%91%8B+I'm+Grency+Savaliya;AI%2FML+Engineer;Full+Stack+Developer;Building+Intelligent+Applications;Always+Learning+New+Technologies" alt="Typing SVG"/>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=GRENCY2005&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<br><br>
+<p align="center">
 
 <a href="https://github.com/GRENCY2005?tab=followers">
-<img src="https://img.shields.io/github/followers/GRENCY2005?label=Followers&style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/GRENCY2005?label=Followers&style=for-the-badge&logo=github&color=181717"/>
 </a>
 
 <a href="https://www.linkedin.com/in/grency-savaliya-373914343/">
@@ -28,9 +22,11 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-</div>
+</p>
 
----
+<img src="https://komarev.com/ghpvc/?username=GRENCY2005&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
