@@ -37,27 +37,27 @@
 ```javascript
 const grency = {
 
-    pronouns: "He/Him",
+    pronouns: "She/Her",
 
     location: "Surat, Gujarat 🇮🇳",
 
     education: "B.Tech Information Technology @ CHARUSAT",
 
-    cgpa: "8.04 / 10",
+    cgpa: "8.11 / 10",
 
     graduating: "2027",
 
     roles: [
-        "Full Stack Developer",
         "AI/ML Engineer",
         "Data Science Enthusiast"
+        "Full Stack Developer"
     ],
 
     languages: [
         "Python",
+"C++",
         "Java",
-        "JavaScript",
-        "C++"
+        "JavaScript"
     ],
 
     technologies: {
@@ -104,13 +104,10 @@ const grency = {
     },
 
     currentFocus: [
-        "Full Stack Development",
         "Artificial Intelligence",
         "Machine Learning",
-        "Cloud Technologies"
+"Full Stack Development"
     ],
-
-    funFact: "Turning coffee ☕ into code and AI-powered applications 🚀"
 }
 ```
 
@@ -124,7 +121,7 @@ const grency = {
 - 📊 Exploring Data Science & Analytics
 - 🌱 Learning Advanced React, Node.js & AI
 - 🚀 Looking for Software Development & AI opportunities
-- 💬 Ask me about **Python, Java, JavaScript, AI, ML & Web Development**
+- 💬 Ask me about **Python, C++, JavaScript, AI, ML & Web Development**
 
 ---
 
@@ -132,7 +129,7 @@ const grency = {
 
 ✨ Data Science Intern at **Oasis Infobyte**
 
-✨ CGPA **8.04**
+✨ CGPA **8.11**
 
 ✨ Built AI Meeting Summarizer Platform
 
