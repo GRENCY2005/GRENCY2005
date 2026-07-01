@@ -40,82 +40,23 @@
 
 ```javascript
 const grency = {
-
     pronouns: "She / Her",
-
     location: "Surat, Gujarat, India 🇮🇳",
-
     education: "B.Tech Information Technology @ CHARUSAT",
-
     graduation: "2027",
-
     cgpa: "8.11 / 10",
-
     roles: ["AI/ML Engineer", "Full Stack Developer", "Software Developer"],
-
-    languages: [
-        "Python",
-        "Java",
-        "C++",
-        "JavaScript",
-        "SQL"
-    ],
-
+    languages: ["Python","Java","C++","JavaScript","SQL"],
     technologies: {
-
-        frontend: [
-            "React.js",
-            "HTML5",
-            "CSS3",
-            "JavaScript",
-            "Tailwind CSS"
-        ],
-
-        backend: [
-            "Node.js",
-            "Express.js",
-            "Flask"
-        ],
-
-        databases: [
-            "MongoDB",
-            "Firebase",
-            "MySQL"
-        ],
-
-        ai_ml: [
-            "Machine Learning",
-            "TensorFlow",
-            "Scikit-Learn",
-            "Pandas",
-            "NumPy"
-        ],
-
-        analytics: [
-            "Power BI",
-            "Tableau",
-            "Matplotlib",
-            "Seaborn"
-        ],
-
-        tools: [
-            "Git",
-            "GitHub",
-            "VS Code",
-            "Jupyter Notebook",
-            "Postman"
-        ]
+        frontend: ["HTML5","CSS3","JavaScript","React.js","Tailwind CSS"],
+        backend: ["Node.js","Express.js","Flask"],
+        databases: ["MongoDB","Firebase","MySQL"],
+        ai_ml: ["Machine Learning","TensorFlow","Scikit-Learn","Pandas","NumPy"],
+        analytics: ["Power BI","Tableau","Matplotlib","Seaborn"],
+        tools: ["Git","GitHub","VS Code","Jupyter Notebook"]
     },
-
-    currentFocus: [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Full Stack Development",
-        "Cloud Computing"
-    ],
-
+    currentFocus: ["Artificial Intelligence","Machine Learning","Full Stack Development"],
     funFact: "I enjoy turning ideas into intelligent applications 🚀"
-
 };
 ```
 
@@ -129,8 +70,6 @@ const grency = {
 - 📊 Exploring Data Science, Analytics and Visualization
 - 🌱 Learning Cloud Computing & MLOps
 - 🚀 Open to internships, collaborations and open-source contributions
-- 💬 Ask me about **Python, Java, C++, JavaScript, AI/ML & Web Development**
-
 ---
 
 ## 🌟 Quick Highlights
@@ -148,30 +87,20 @@ const grency = {
 ✨ Always learning new technologies
 
 ---
-
-## 💡 Motto
-
-> **"Code with purpose. Learn continuously. Build solutions that make an impact."**
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>   
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-| 🚀 Project | 🛠️ Tech Stack | ⭐ Highlights |
-|------------|--------------|---------------|
-| 🤖 **MeetVerse AI** | Next.js • Clerk • Groq API • Google Calendar | AI Meeting Summarizer with Live Transcript, Smart Task Extraction & Calendar Integration |
-| 📱 **SIM Management with Anomaly Detection** | React.js • Node.js • JWT • MongoDB • Isolation Forest | Secure SIM Management Platform with AI-based Anomaly Detection |
-| ⚖️ **AI ChatBot for Department of Justice** | Python • Flask • Gemini API • NLP | AI Assistant with Speech Recognition and Intelligent Responses |
-| 🌸 **Iris Flower Classification** | Python • Scikit-Learn • Pandas | Machine Learning Classification Model with High Accuracy |
-| 📊 **Student Performance Prediction** | Python • Machine Learning | Predictive Analytics for Student Performance |
-| 📱 **Smart Mobile Doctor** | Python • Flask • ML | AI-powered Mobile Health Diagnostics & Prediction |
+| 💻 Project | ⚙️ Tech Stack | ✨ Key Features |
+|:----------|:-------------|:---------------|
+| **🤖 MeetVerse – AI Meeting Assistant** | Next.js • Clerk • Groq API • Google Calendar | 🎥 Video Meetings • 📝 AI Meeting Summary • 🎙️ Live Transcription • 📅 Smart Scheduling |
+| **📱 SIM Management with Anomaly Detection** | React.js • Node.js • MongoDB • JWT • Isolation Forest | 🔐 Secure Authentication • 📊 Admin Dashboard • 🤖 AI Anomaly Detection • 📈 Real-Time Monitoring |
+| **⚖️ AI ChatBot for Department of Justice** | Python • Flask • Gemini API • NLP | 💬 AI Chatbot • 🎤 Speech Recognition • 📚 Smart Query Handling • ⚡ Fast Responses |
 
 </div>
-
 ---
 
 # <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Tech Arsenal
