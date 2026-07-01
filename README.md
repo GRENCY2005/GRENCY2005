@@ -51,11 +51,7 @@ const grency = {
 
     cgpa: "8.11 / 10",
 
-    roles: [
-        "AI/ML Engineer",
-        "Full Stack Developer",
-        "Software Developer"
-    ],
+    roles: ["AI/ML Engineer", "Full Stack Developer", "Software Developer"],
 
     languages: [
         "Python",
